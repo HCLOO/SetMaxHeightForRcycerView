@@ -1,0 +1,2 @@
+# SetMaxHeightForRcycerView
+实现当RcyclerView item数目大与阀值时，为RcyclerView设置固定高度进行滑动
